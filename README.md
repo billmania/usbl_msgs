@@ -1,2 +1,2 @@
-# auv_delivery_msgs
-ROS2 interface definitions for auv_delivery
+# usbl_msgs
+ROS2 interface definitions for the delivery repository
