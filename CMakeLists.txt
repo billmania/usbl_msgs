@@ -23,6 +23,7 @@ find_package(std_msgs REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/RangeBearing.msg"
+  "msg/X150Status.msg"
   DEPENDENCIES std_msgs
  )
 
