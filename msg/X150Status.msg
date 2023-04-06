@@ -14,6 +14,6 @@ float32 sound_mps
 #
 # Attitude
 #
-float32 compass_mag
+float32 yaw_deg
 float32 pitch_deg
 float32 roll_deg
